@@ -1,2 +1,2 @@
 # mask
-![image]mask.png
+![image](picture or gif url)
