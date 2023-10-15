@@ -1,2 +1,2 @@
 # mask
-[mask.png]
+![image]mask.png
